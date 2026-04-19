@@ -6,7 +6,7 @@ This project implements a complete machine learning pipeline to classify breast 
 ##  Dataset
 - Source: scikit-learn breast cancer dataset
 - Samples: 569
-- Features: 30 numerical features related to cell nuclei
+- Features: 30 numerical features related to cell nuclei  
 The dataset used in this project is included as `Breast_cancer_data.csv` for reproducibility and further analysis.
 
 ##  Workflow
